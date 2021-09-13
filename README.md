@@ -14,6 +14,9 @@ http://www.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst
 
 - voom + limma for RNAseq: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29
 
+- DESeq2 vs edgeR: https://mikelove.wordpress.com/2016/09/28/deseq2-or-edger/
+
+- differences among edgeR, DESeq2 and Limma: https://www.biostars.org/p/284775/
 
 ### Microarray analysis
 
